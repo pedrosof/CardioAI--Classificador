@@ -18,7 +18,7 @@
 
 **Demonstração** [YouTube](https://youtu.be/AvIl6RQgpFg)
 
-**Google Drive** [Google Drive](https://drive.google.com/drive/folders/16HJyrHcMU68Vvz9WaBrzN-K2rNMlxkUc?usp=share_link)
+**Arquivos** [Google Drive](https://drive.google.com/drive/folders/16HJyrHcMU68Vvz9WaBrzN-K2rNMlxkUc?usp=share_link)
 
 ---
 # CardioAI – Classificação e Diagnóstico Automatizado
